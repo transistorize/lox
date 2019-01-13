@@ -190,6 +190,4 @@ class Scanner {
             Double.parseDouble(source.substring(start, current)));
     }
 
-
-
 }
