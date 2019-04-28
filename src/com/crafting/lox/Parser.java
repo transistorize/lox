@@ -26,7 +26,6 @@ class Parser {
         return equality();
     }
 
-
     //TODO exercise for later, unify following code for similarities
     private Expr equality() {
         Expr expr = comparison();
